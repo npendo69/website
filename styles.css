@@ -2,11 +2,6 @@ html, body {
     margin: 0;
 }
 
-#contact {
-    display: flex;
-    flex-direction: row;
-}
-
 #header {
     display: flex;
     flex-direction: column;
